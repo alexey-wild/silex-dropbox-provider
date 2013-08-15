@@ -1,0 +1,1 @@
+silex-dropbox-provider is a Silex provider for api [dropbox.com](http://dropbox.com/).
